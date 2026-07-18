@@ -5,7 +5,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.11+-blue.svg)]()
 [![Build Status](https://img.shields.io/badge/Build-Passing-success)]()
 
-Welcome to **Operation CloudStrike**. This repository houses a lightweight automated network monitor designed to sniff out suspicious traffic, catalog open ports, and ensure our digital perimeter isn't leaking data like a rusty bucket. 
+Welcome to **Operation CloudStrike**. Which is an automated network monitor designed to sniff out suspicious traffic and cyber threats. 
 
 ---
 
